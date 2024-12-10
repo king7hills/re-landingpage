@@ -19,3 +19,12 @@ From my research, the other image generators do not have the same freedom.
 For personal use or goofing around, AI image gen in general is safe. For images used commercially in any aspect, it is best to use
 images owned or created by the parent company OR use creative commons with proper attribution. The exception is using Adobe's Firefly
 service since it is designed to be utilized commercially.
+
+
+
+Photo attributions:
+ffwavingrobots.jpg Adobe Firefly generated
+basin.jpg Image by <a href="https://pixabay.com/users/brett_hondow-49958/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=248640">Brett Hondow</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=248640">Pixabay</a>
+h2o.jpg Image by <a href="https://pixabay.com/users/imagesbg-2002298/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1610746">ImagesBG</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1610746">Pixabay</a>
+ffwaterheater.jpg Adobe Firefly generated
+wrenches.jpg Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=840835">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=840835">Pixabay</a>
