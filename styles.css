@@ -2,3 +2,133 @@
     font-family: "Roboto", sans-serif;
 }
 
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+li {
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header,
+.hero,
+.footer {
+    background-color: #1f2937;
+    display: flex;
+}
+
+a,
+.herosubtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.herotitle {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    border-radius: 10px;
+    border-style: none;
+    height: 36px;
+    width: 120px;
+    padding: 10px;
+}
+
+.header {
+    justify-content: space-between;
+    padding: 20px 200px;
+}
+
+.hero {
+    justify-content: space-between;
+    padding: 100px 200px;
+    gap: 8px;
+}
+.herotext {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 200px;
+}
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.servicetitle {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+.categories {
+    display: flex;
+    justify-content: space-evenly;
+}
+.subcat {
+    text-align: center;
+    width: 200px;
+    height: 350px;
+}
+.subcat img {
+    max-width: 100%;
+}
+
+.testimonial {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: left;
+}
+.source {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
+.CTA {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    border-radius: 12px;
+    padding: 100px, 200px;
+}
+.CTA button {
+    border: 1px, solid, white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 36px 500px;
+}
