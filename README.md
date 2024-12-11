@@ -20,7 +20,8 @@ For personal use or goofing around, AI image gen in general is safe. For images 
 images owned or created by the parent company OR use creative commons with proper attribution. The exception is using Adobe's Firefly
 service since it is designed to be utilized commercially.
 
-
+2010 12.10.24
+I've got everything finished and working properly. It's definitely not perfect, but it's there. The call to action section took some time balancing out the padding values with the gap value. I finally got it wrangled. Not bad for my first reverse engineered site :).
 
 Photo attributions:
 ffwavingrobots.jpg Adobe Firefly generated

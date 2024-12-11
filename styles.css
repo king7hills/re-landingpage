@@ -125,13 +125,13 @@ button {
 }
 .CTA {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 248px;
     align-items: center;
     background-color: #3882f6;
     border-radius: 12px;
     color: white;
-    padding: 50px 224px;
-    border: 2px, solid, red;
+    padding: 50px 100px;
 }
 .CTAtitle {
     font-size: 20px;
@@ -139,6 +139,7 @@ button {
 }
 .CTA button {
     border: 1px, solid, white;
+    margin-left: 60px;
 }
 
 .footer {
