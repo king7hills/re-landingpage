@@ -74,21 +74,29 @@ button {
     justify-content: center;
     align-items: center;
     padding: 50px 200px;
+    border: 2px, solid, red;
 }
 .service {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 32px;
+    border: 2px, solid, red;
 }
 .servicetitle {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+    text-align: center;
 }
 .categories {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 28px;
+    padding-bottom: 16%;
+    border: 2px, solid, red;
 }
 .subcat {
     text-align: center;
@@ -97,11 +105,15 @@ button {
 }
 .subcat img {
     max-width: 100%;
+    border-radius: 15px;
 }
 
 .testimonial {
     background-color: #e5e7eb;
     color: #1f2937;
+    border: 2px, solid, red;
+    padding: 50px 150px;
+    margin: 50px 100px;
 }
 .quote {
     font-size: 36px;
@@ -131,4 +143,5 @@ button {
     justify-content: center;
     align-items: center;
     padding: 36px 500px;
+    color: #e5e7eb;
 }
