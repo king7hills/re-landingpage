@@ -74,7 +74,6 @@ button {
     justify-content: center;
     align-items: center;
     padding: 50px 200px;
-    border: 2px, solid, red;
 }
 .service {
     display: flex;
@@ -82,7 +81,6 @@ button {
     align-items: center;
     justify-content: center;
     gap: 32px;
-    border: 2px, solid, red;
 }
 .servicetitle {
     font-size: 36px;
@@ -93,15 +91,14 @@ button {
 .categories {
     display: flex;
     justify-content: center;
+    align-items:flex-end;
     flex-wrap: wrap;
     gap: 28px;
     padding-bottom: 16%;
-    border: 2px, solid, red;
 }
 .subcat {
     text-align: center;
     width: 200px;
-    height: 350px;
 }
 .subcat img {
     max-width: 100%;
@@ -111,9 +108,8 @@ button {
 .testimonial {
     background-color: #e5e7eb;
     color: #1f2937;
-    border: 2px, solid, red;
-    padding: 50px 150px;
-    margin: 50px 100px;
+    padding: 50px 50px;
+    margin: 50px 50px;
 }
 .quote {
     font-size: 36px;
@@ -130,9 +126,16 @@ button {
 .CTA {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #3882f6;
     border-radius: 12px;
-    padding: 100px, 200px;
+    color: white;
+    padding: 50px 224px;
+    border: 2px, solid, red;
+}
+.CTAtitle {
+    font-size: 20px;
+    font-weight: bold;
 }
 .CTA button {
     border: 1px, solid, white;
